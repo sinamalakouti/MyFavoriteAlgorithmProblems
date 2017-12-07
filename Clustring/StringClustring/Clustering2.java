@@ -31,7 +31,7 @@ import java.util.Scanner;
  * what is the largest value of k such that there is a k-clustering with spacing at least 3? That is, how many clusters are needed to ensure that no pair of nodes with all but 2 bits in common get split into different clusters?
  *
  *
- *  	answer : 116
+ *  	answer : 6118
  * 
  * 
  */
